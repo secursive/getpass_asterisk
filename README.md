@@ -1,6 +1,13 @@
 # getpass_asterisk
 An alternative implementation for getpass that echoes masked password (such as asterisks).
 
+## Installation
+pip can be used to install getpass_asterisk.
+
+```bash
+pip install getpass_asterisk
+```
+
 ## Usage
 Usage is identical to getpass.
 
