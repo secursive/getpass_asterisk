@@ -19,7 +19,7 @@ Use this utility only in a scenario where passwords are always of fixed length.
 This utility was created to receive secret tokens as input which are always of
 same size. Echoing the asterisks helped improve user experience.
 Use at your own risk. Only use for taking constant length secret inputs.
-For feedback, contact: Muhammad Akbar (akbar@secursive.com)
+For feedback, contact: Muhammad Akbar (akbarATsecursive.com)
 <<<>>>
 
 
