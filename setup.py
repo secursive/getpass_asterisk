@@ -7,7 +7,7 @@ setuptools.setup(
     name="getpass_asterisk",
     version="1.0.0",
     author="Muhammad Akbar | Secursive",
-    author_email="akbarATsecursive.com",
+    author_email="akbar@secursive.com",
     description="An alternative implementation for getpass that echoes masked password (such as asterisks)",
     long_description=long_description,
     long_description_content_type="text/markdown",
