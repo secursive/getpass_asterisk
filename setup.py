@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="getpass_asterisk",
-    version="1.0.0",
+    version="1.0.1",
     author="Muhammad Akbar | Secursive",
     author_email="akbar@secursive.com",
     description="An alternative implementation for getpass that echoes masked password (such as asterisks)",
